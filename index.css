@@ -29,3 +29,10 @@
 	left: 50%;
 	font-size: 20rem;
 }
+.one:hover {
+  background-image: linear-gradient(to right, blue, red); 
+    height: 250px;
+    border-radius: 10px;
+    padding-top: 40px;  
+    color: white;
+}
